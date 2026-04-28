@@ -38,7 +38,7 @@ section {
 .formulario {
     display: flex;
     flex-direction: column;
-    gap:110x; /* Espacio entre los campos */
+    gap:40x; /* Espacio entre los campos */
 }
 
 .grupo-entrada {
@@ -105,7 +105,7 @@ section {
 .enlaces {
     list-style: none;
     display: flex;
-    gap: 110px; /* Espacio entre botones */
+    gap: 40px; /* Espacio entre botones */
     margin: 0;
 }
 
